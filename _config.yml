@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "Do list Done list"
 title_separator          : "-"
 subtitle                 : "2022.01"
-name                     : "jeonghwan.kim"
+name                     : "JH.Kim"
 description              : "정리용 개인 블로그"
 url                      : "https://brainauto.github.io/midgravesblog.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "joenghwan.kim"
+  name             : "JH.Kim"
   avatar           : "/assets/images/owl-50267_960_720.jpg"
   bio              : "**2022.01** git blog 개설<br>줄바꿈 테스트"
   location         : "Republic of Korea"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/brainauto/midgravesblog.github.io.git"
+      url: "https://github.com/brainauto"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/brainauto"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
