@@ -118,7 +118,7 @@ public class BootSpringBootApplication {
 ```
 public class BootSpringBootApplication {
   public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
+    System.out.println("블로그 테스트");
   }
 }
 ```
@@ -129,7 +129,7 @@ public class BootSpringBootApplication {
 ```
 public class BootSpringBootApplication {
   public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
+    System.out.println("블로그 테스트");
   }
 }
 ```
@@ -140,7 +140,7 @@ public class BootSpringBootApplication {
 ```JAVA
 public class BootSpringBootApplication {
   public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
+    System.out.println("블로그 테스트");
   }
 }
 ```
@@ -151,10 +151,12 @@ public class BootSpringBootApplication {
 ```JAVA
 public class BootSpringBootApplication {
   public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
+    System.out.println("블로그 테스트");
   }
 }
 ```
+
+
 
 
 <!--
