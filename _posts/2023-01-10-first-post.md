@@ -83,7 +83,7 @@ This is a normal paragraph
 
 예시
 
-'''
+```
 <pre>
 <code>
   public class BootSpringBootApplication {
@@ -93,7 +93,7 @@ This is a normal paragraph
 }
 </code>
 </pre>
-'''
+```
 
 이렇게 쓰면
 
@@ -113,7 +113,7 @@ public class BootSpringBootApplication {
 
 
 이렇게도 쓸수 있는데 이렇게 쓰면
-'''
+```
 ```
 public class BootSpringBootApplication {
   public static void main(String[] args) {
@@ -121,18 +121,20 @@ public class BootSpringBootApplication {
   }
 }
 ```
-'''
+```
 
 이렇게 보임
 
+```
 public class BootSpringBootApplication {
   public static void main(String[] args) {
     System.out.println("Hello, Honeymon");
   }
 }
+```
 
 또 이렇게 언어 명시해주면 해당 언어와 똑같이 코드 강조해줌
-'''
+```
 ```JAVA
 public class BootSpringBootApplication {
   public static void main(String[] args) {
@@ -140,7 +142,7 @@ public class BootSpringBootApplication {
   }
 }
 ```
-'''
+```
 
 
 ```JAVA
