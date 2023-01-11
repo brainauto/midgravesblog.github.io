@@ -60,7 +60,6 @@ This is a normal paragraph
 들여쓰기 시작과 끝 문장을 코드블록과 한줄 띄어쓰지 않으면 들여쓰기 취소됨
 
 예시 
-
     여기는 코드 넣는 부분 여기만 강조됨
     paragraph - 단락
 들여쓰기 테스트
@@ -82,15 +81,16 @@ This is a normal paragraph
 코드블럭 사용방법
 ---
 
+예시
 
   <pre>
-    <code>
-      public class BootSpringBootApplication {
-        public static void main(String[] args) {
-          System.out.println("Hello, Honeymon");
-        }
-      }
-    </code>
+  <code>
+  public class BootSpringBootApplication {
+    public static void main(String[] args) {
+     System.out.println("Hello, Honeymon");
+    }
+  }
+  </code>
   </pre>
 
 이렇게 쓰면
@@ -103,7 +103,6 @@ public class BootSpringBootApplication {
   public static void main(String[] args) {
     System.out.println("Hello, Honeymon");
   }
-
 }
 </code>
 </pre>
