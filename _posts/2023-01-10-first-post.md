@@ -146,7 +146,7 @@ public class BootSpringBootApplication {
 ```
 ````
 
-이렇게
+그런데 \`\`\`JAVA 이렇게 사용하면 MD파일에서는 색칠 되는데 정작 웹페이지에는 색칠 안 됨.
 
 ```JAVA
 public class BootSpringBootApplication {
@@ -155,6 +155,16 @@ public class BootSpringBootApplication {
   }
 }
 ```
+
+해결하려다가 안돼서 그냥 아래처럼 사용함
+
+````
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+````
 
 {% highlight ruby linenos %}
 def foo
