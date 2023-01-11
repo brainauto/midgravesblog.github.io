@@ -83,15 +83,19 @@ This is a normal paragraph
 
 예시
 
-  <pre>
-  <code>
-  public class BootSpringBootApplication {
-    public static void main(String[] args) {
-     System.out.println("Hello, Honeymon");
-    }
-  }
-  </code>
-  </pre>
+<pre>
+<code>
+> <pre>
+  > <code>
+  > public class BootSpringBootApplication {
+    >public static void main(String[] args) {
+  > System.out.println("블로그 테스트");
+  > }
+> }
+> </code>
+> </pre>
+</code>
+</pre>
 
 이렇게 쓰면
 
@@ -101,7 +105,7 @@ This is a normal paragraph
 <code>
 public class BootSpringBootApplication {
   public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
+    System.out.println("블로그 테스트");
   }
 }
 </code>
