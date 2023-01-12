@@ -6,3 +6,10 @@ https://eona1301.github.io/a_to_z/GithubBlog/ - 깃허브 시작 도움
 https://ansohxxn.github.io/blog/category/  - 댓글 기능 및 전반적인 깃허브 기능
 
 https://dev-yakuza.posstree.com/ko/jekyll/search-bar/ - search 기능 추가 / 댓글 기능 참고 
+
+
+
+https://muabow.tistory.com/263  리눅스 C 소켓 통신 서버 구축
+
+https://bantree.tistory.com/108 - [Linux, C] Hello world 서버 & 클라이언트 TCP/IP통신, 소켓통신
+
