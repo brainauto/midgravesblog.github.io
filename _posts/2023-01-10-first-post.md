@@ -30,6 +30,14 @@ git blog
 ```
 
 
+```
+# 글머리 1
+## 글머리 2
+### 글머리 3
+#### 글머리 4
+##### 글머리 5
+###### 글머리 6
+```
 
 # 글머리 1
 ## 글머리 2
@@ -38,9 +46,24 @@ git blog
 ##### 글머리 5
 ###### 글머리 6
 
+
+
+```
+> 아웃룩 첨부 메일같은 들여쓰기 기능
+> > 줄 생김
+```
+
+
 > 아웃룩 첨부 메일같은 들여쓰기 기능
 > > 줄 생김
 
+
+
+```
+1. git
+2. github
+3. git blog
+```
 
 1. git
 2. github
@@ -175,13 +198,13 @@ public class BootSpringBootApplication {
 
 해결하려다가 안돼서 그냥 아래처럼 사용함
 
-````
-{% highlight ruby linenos %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-````
+```
+"{% highlight ruby linenos %}"
+"def foo"
+"  puts 'foo'"
+"end"
+"{% endhighlight %}"
+```
 
 {% highlight ruby linenos %}
 def foo
