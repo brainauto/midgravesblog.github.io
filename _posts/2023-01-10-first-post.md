@@ -198,19 +198,74 @@ public class BootSpringBootApplication {
 
 해결하려다가 안돼서 그냥 아래처럼 사용함
 
-<div class="notice--primary">
+```
 {% highlight ruby linenos %}
  def foo
   puts 'foo'
 end
 {% endhighlight %}
-</div>
+```
 
 {% highlight ruby linenos %}
 def foo
   puts 'foo'
 end
 {% endhighlight %}
+
+
+````
+공지사항 같이 두번 강조할 때
+<div class="notice--primary" markdown="1">
+
+안에 코드블럭도 사용가능
+
+```java
+String str = "hello git blog";
+
+public class javablock{
+  public static void main(String[] args){
+    system.out.println("%d", str);
+  }
+}
+```
+
+</div>
+````
+
+
+
+```
+<details>
+<summary>접기/펼치기</summary>
+<div markdown="1">
+
+|제목|내용|
+|--|--|
+|1|1|
+|2|10|
+
+</div>
+</details>
+```
+
+
+<details>
+<summary>접기/펼치기</summary>
+<div markdown="1">
+
+|제목|내용|
+|--|--|
+|1|1|
+|2|10|
+
+</div>
+</details>
+
+
+
+
+
+
 
 
 <!--
