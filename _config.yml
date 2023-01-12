@@ -337,12 +337,3 @@ defaults:
       author_profile: false
       share: true
 
-# 검색기능 assets/tipuesearch 
-tipue_search:
-     include:
-         pages: false
-         collections: []
-     exclude:
-         files: [search.html, index.html, tags.html]
-         categories: []
-         tags: []

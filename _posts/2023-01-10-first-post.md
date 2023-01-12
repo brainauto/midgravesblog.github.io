@@ -1,5 +1,5 @@
 ---
-title: "minimal mistakes 사용기"
+title: "jekyll 문법 대충 모음"
 last_modified_at: 2023-01-11 09:31:00 + 09:00
 categories:
   - blog

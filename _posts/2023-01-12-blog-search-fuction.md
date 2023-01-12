@@ -7,8 +7,7 @@ tags:
   - git blog
   - minimal mistakes
   - jekyll
-  - HTML
-  - tipuesearch
+  - Simple-Jekyll-Search
 ---
 
 git blog에 검색 기능 만들기

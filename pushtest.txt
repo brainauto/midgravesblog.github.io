@@ -1,8 +1,8 @@
-git push dedicated
+exclusively for git push
 
 
 https://eona1301.github.io/a_to_z/GithubBlog/ - 깃허브 시작 도움
 
-https://ansohxxn.github.io/blog/category/  - 카테고리 등록 및 전반적인 깃허브 기능
+https://ansohxxn.github.io/blog/category/  - 댓글 기능 및 전반적인 깃허브 기능
 
-https://harsik.github.io/github/2020/01/01/makeGithubBlog5.html - 태그 등록 및 search 기능 추가
+https://dev-yakuza.posstree.com/ko/jekyll/search-bar/ - search 기능 추가 / 댓글 기능 참고 
