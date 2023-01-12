@@ -1,5 +1,5 @@
 ---
-title: "git blog theme : minimal mistakes"
+title: "minimal mistakes 사용기"
 last_modified_at: 2023-01-11 09:31:00 + 09:00
 categories:
   - blog
@@ -198,13 +198,13 @@ public class BootSpringBootApplication {
 
 해결하려다가 안돼서 그냥 아래처럼 사용함
 
-```ruby
+<div class="notice--primary">
 {% highlight ruby linenos %}
  def foo
   puts 'foo'
 end
 {% endhighlight %}
-```
+</div>
 
 {% highlight ruby linenos %}
 def foo
