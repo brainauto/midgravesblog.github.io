@@ -198,13 +198,13 @@ public class BootSpringBootApplication {
 
 해결하려다가 안돼서 그냥 아래처럼 사용함
 
-```
-"{% highlight ruby linenos %}"
-"def foo"
-"  puts 'foo'"
-"end"
-"{% endhighlight %}"
-```
+\{% highlight ruby linenos \%\}
+def foo
+  puts 'foo'
+end
+\{% endhighlight %\}
+
+
 
 {% highlight ruby linenos %}
 def foo
