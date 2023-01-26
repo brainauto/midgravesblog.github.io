@@ -5,7 +5,7 @@ categories:
   - IDE
 tags:
   - Visual Studio
-  - 2022
+  - '2022'
   - template
 ---
 
