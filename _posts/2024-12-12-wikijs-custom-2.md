@@ -78,7 +78,7 @@ dev 모드로 실행된 서버가 자동으로 컴파일을 진행 후 wiki.js�
 4. 제대로 실행됐다면 아래와 같은 버튼이 생긴다.
    실행은 문제없이 됐는데 hide 버튼이 보이지 않는다면 ctrl + F5 버튼으로 새로고침 해보자.
 
-![예제 이미지](./image/wiki-custom-screenshot-1.png)
+![예제 이미지](/image/wiki-custom-screenshot-1.png)
 
 
 버튼이 사이드바가 사라진 이후에도 보여야 하니 우측으로 빼볼까?
@@ -86,14 +86,14 @@ dev 모드로 실행된 서버가 자동으로 컴파일을 진행 후 wiki.js�
 style='position: absolute; top: 0px; right: -20px; min-width: 0;'
 ```
 
-![예제 이미지](./image/wiki-custom-screenshot-2.png)
+![예제 이미지](/image/wiki-custom-screenshot-2.png)
 
 sidebar의 영역을 벗어나니 버튼이 짤린다. 그럼 z-index를 높여보면?
 ```
 style="position: absolute; top: -10px; right: -10px; min-width: 0; z-index: 1000;"
 ```
 
-![예제 이미지](./image/wiki-custom-screenshot-3.png)
+![예제 이미지](/image/wiki-custom-screenshot-3.png)
 
 어림도 없는 걸 볼 수 있다.
 
